@@ -18,17 +18,17 @@ If you are unable to resolve the issue using the above methods, proceed to repor
 ## How to report an issue through Jira
 If you are running into an issue that is beyond your ability, hit the `Log Bug Report` button on AAQ.
 
-![log_issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/images/log_bug_report.png?raw=true)
+![log_issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/log_bug_report.png?raw=true)
 
 This will bring you to Jira, where you need to press the plus button in the navigation to create the issue.
 
-![create issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/images/create_issue.png?raw=true)
+![create issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/create_issue.png?raw=true)
 
 This will bring up a modal for you to create a ticket based on issue type.
 
 Select the appropriate issue type and fill in all required and optional fields.
 
-![issue modal](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/images/create_issue_modal.png?raw=true)
+![issue modal](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/create_issue_modal.png?raw=true)
 
 When creating your ticket make sure to include:
 
