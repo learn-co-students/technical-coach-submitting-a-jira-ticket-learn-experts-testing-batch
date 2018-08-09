@@ -82,3 +82,4 @@ There are a few different priority levels and it's important to pick the right o
 ## Resources
 
 * [Ticket Priority Levels](https://docs.google.com/a/flatironschool.com/spreadsheets/d/1_yr-CsT0hIfSEcz9vv9yjkRGWQLeKmG40SNjywphoOc/edit?usp=sharing)
+* [Submitting a Jira Ticket Video Walkthrough](https://www.youtube.com/watch?v=9LC_G99xHlY&feature=youtu.be)
