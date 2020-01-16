@@ -1,14 +1,16 @@
 # Submitting a Jira Ticket
 
-If an issue needs to be escalated to the development team, we [file a support ticket through Jira](https://flatiron.atlassian.net/projects/TS?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page). 
+If an issue needs to be escalated to the development team, we [file a support ticket through Jira](https://flatiron.atlassian.net/projects/TS?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page).
 
 ## Pre-Escalation Checklist
 
 Since reporting an issue is a heavy load on our development team, there are steps that must be taken before reporting _any_ issue:
 
-- Make sure you or the student (whoever is experiencing the issue) has tried fully refreshing the page
-- Browse or search [the technical coaches resources repo]() and the [help center](http://help.learn.co/) using keywords or error messages to see if you can find a solution 
+- Make sure you or the student (whoever is experiencing the issue) has tried fully refreshing the page, closing the IDE and reopening, logging out of learn.co and back in, etc.
+- For weird issues on a lab, it may help to clone a fresh copy of the lab
 - If the student is having an issue in the Learn IDE, you should be able to re-create this same issue **in your own Learn IDE**.
+- If the issue is related to the IDE, check [here](https://docs.google.com/document/d/1QBE_VOFTu46iKQATk-dfHl-8AJfuMIowOhE9_kbFEU0/edit?ts=5df212e2&pli=1) for solutions
+- Browse or search [the technical coaches resources repo](https://github.com/flatiron-school/technical-coach-resources) and the [help center](http://help.learn.co/) using keywords or error messages to see if you can find a solution 
 - Search the `#tc_support` channel for any possible solutions
 - Do an `@here` in the `#technical-coaches` channel to see if any of the other Technical Coaches can help
 - Do a quick Google / StackOverflow search for any possible solutions
@@ -66,11 +68,11 @@ Attached is some errors in the console of the ide while running learn and learn 
 
 There are a few different priority levels and it's important to pick the right one. The table below gives a quick overview of issues priorities and their definitions.
 
-| Priority | Definition | 
+| Priority | Definition |
 | -------- | ---------- |
 | Blocker | Issues that prevent paid users from learning, or sitewide issues that affect all users. For example: a paid user's IDE not working or they can't access their track or billing. Or, AAQ is broken, or `learn.co` is down. **Use with caution**. |
 | High | Issues that prevent unpaid users from learning, or a paid student has an issue that is causing a poor experience. For example: a paid user's lights on `learn.co` aren't or is having chat issues; a free user can't access a free track or get their IDE to work.
-| Medium | An issue that needs to be addressed and may be causing a poor experience but does not need to be fixed for a few business days. For example, a paid user has Slack invitation issues, or can't switch their blog type; a free user's track lights won't flip but they can proceed. 
+| Medium | An issue that needs to be addressed and may be causing a poor experience but does not need to be fixed for a few business days. For example, a paid user has Slack invitation issues, or can't switch their blog type; a free user's track lights won't flip but they can proceed.
 | Low | An issue that would be nice to fix, but can be addressed down the road during a clean up week. For example, visual quirks, feature requests or improvements; free user has has a problem with Slack or their progress data is incorrect.
 
 **Raising a blocking issue will alert the entire Flatiron staff. Use ONLY for critical issues.**
