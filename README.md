@@ -35,9 +35,9 @@ Select the appropriate issue type and fill in all required and optional fields.
 
 When creating your ticket make sure to include:
 
-* Error category (eg IDE, Chat, UI, etc)
+* Error category (e.g. IDE, Chat, UI, etc.)
 * Student, lab, and environment info
-  * Include the full name of the student, their Github username, their email (if they do not have a Github username), and a link to the student's admin profile)
+  * Include the full name of the student, their Github username, their email (if they do not have a Github username). It's also nice to include a link to the student's admin profile. 
   * Include OS version and IDE version (if student is using the IDE)
 * A brief description of the issue/error
 * What you saw and what you expected to see
@@ -85,6 +85,8 @@ There are a few different priority levels and it's important to pick the right o
 **Raising a blocking issue will alert the entire Flatiron staff. Use ONLY for critical issues.**
 
 [Use this spreadsheet to determine which priority level you should use.](https://docs.google.com/a/flatironschool.com/spreadsheets/d/1_yr-CsT0hIfSEcz9vv9yjkRGWQLeKmG40SNjywphoOc/edit?usp=sharing)
+
+Note that the spreadsheet also gives expected turnaround times for each priority level, as well as suggested snippets to share with students once the ticket has been submitted. Students will understandably have questions about how long it will take for their issue to be addressed, so keep them in the loop!
 
 **Note: Before raising a blocking issue, you'll need to determine if the user is paying or not. Additionally, if the student can move forward (go to the next lesson for now), then it is *not* a blocking issue.**
 
