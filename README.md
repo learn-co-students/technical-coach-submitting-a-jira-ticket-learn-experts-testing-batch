@@ -37,7 +37,7 @@ When creating your ticket make sure to include:
 
 * Error category (e.g. IDE, Chat, UI, etc.)
 * Student, lab, and environment info
-  * Include the full name of the student, their Github username, their email (if they do not have a Github username). It's also nice to include a link to the student's admin profile. 
+  * Include the full name of the student, their Github username, their email (if they do not have a Github username). It's also nice to include a link to the student's admin profile.
   * Include OS version and IDE version (if student is using the IDE)
 * A brief description of the issue/error
 * What you saw and what you expected to see
@@ -64,7 +64,7 @@ Thing's we've tried:
 - Deleted forked repo and re forked, ran learn and learn submit
 - Deleted local copy and re-cloned, ran learn and learn submit
 
-Attached is some errors in the console of the IDE while running learn and learn submit
+Attached are some errors in the console of the IDE while running learn and learn submit
 ```
 
 **Note**: Do not rely on the dev team reading through the chat transcript. Please provide a summary as best you can so they don't have to dig through the chat.
@@ -73,7 +73,7 @@ Once you've filled in all the fields, you'll need to set a priority level.
 
 ## Priority Level
 
-There are a few different priority levels and it's important to pick the right one. The table below gives a quick overview of issues priorities and their definitions.
+There are a few different priority levels and it's important to pick the right one. The table below gives a quick overview of issue priorities and their definitions.
 
 | Priority | Definition |
 | -------- | ---------- |
