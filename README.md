@@ -12,26 +12,20 @@ Since reporting an issue is a heavy load on our development team, there are step
 - If the issue is related to the IDE, check [here](https://docs.google.com/document/d/1QBE_VOFTu46iKQATk-dfHl-8AJfuMIowOhE9_kbFEU0/edit?ts=5df212e2&pli=1) for solutions
 - Browse or search [the technical coaches resources repo](https://github.com/flatiron-school/technical-coach-resources) and the [help center](http://help.learn.co/) using keywords or error messages to see if you can find a solution
 - Search the `#tc_support` channel for any possible solutions
-- Do an `@here` in the `#technical-coaches` channel to see if any of the other Technical Coaches can help
+- Do an `@here` in the `#technical-coaches-se` channel to see if any of the other Technical Coaches can help
 - Do a quick Google / StackOverflow search for any possible solutions
 
 If you are unable to resolve the issue using the above methods, proceed to report the issue through Jira.
 
 ## How to report an issue through Jira
-If you are running into an issue that is beyond your ability, hit the `Log Bug Report` button on AAQ.
+If you are running into an issue that is beyond your ability, submit a ticket via Jira. You can do this directly from the above link.
 
-![log_issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/log_bug_report.png?raw=true)
-
-This will bring you to Jira, where you need to press the plus button in the navigation (on the left side of the page) to create the issue.
-
-![create issue](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/create_issue.png?raw=true)
+This will bring you to Jira, where you need to press the `Create` button in the navigation to create the issue.
 
 This will bring up a modal for you to create a ticket based on issue type.
 
-The "Project" for the issue should always be `Learn Tech Support`.
+The "Project" for the issue should always be Flatiron Support Board (LABSBOARD)`.
 Select the appropriate issue type and fill in all required and optional fields.
-
-![issue modal](https://github.com/learn-co-curriculum/technical-coach-submitting-a-jira-ticket/blob/master/create_issue_modal.png?raw=true)
 
 When creating your ticket make sure to include:
 
