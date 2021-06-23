@@ -1,6 +1,6 @@
 # Submitting a Jira Ticket
 
-If an issue needs to be escalated to the development team, we [file a support ticket through Jira](https://flatiron.atlassian.net/projects/TS?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page).
+If an issue needs to be escalated to the development team, we file a support ticket through Jira.
 
 ## Pre-Escalation Checklist
 
@@ -18,9 +18,13 @@ Since reporting an issue is a heavy load on our development team, there are step
 If you are unable to resolve the issue using the above methods, proceed to report the issue through Jira.
 
 ## How to report an issue through Jira
-If you are running into an issue that is beyond our team's ability to support, submit a ticket via Jira. You can do this directly from this [link](https://flatiron.atlassian.net/projects/TS?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page) or within the [Zendesk app](https://docs.google.com/document/d/1-EjaOf8V0ONLhzzX236FR8cgUeCXR2xiW1yIjwNktqU/edit#bookmark=id.fg7sbt74ij2i).
+If you are running into an issue that is beyond our team's ability to support, submit a ticket via Jira. 
 
-This will bring you to Jira, where you need to press the `Create` button in the navigation to create the issue.
+We prefer that you submit tickets through the Zendesk App, following [these procedures](https://docs.google.com/document/d/1-EjaOf8V0ONLhzzX236FR8cgUeCXR2xiW1yIjwNktqU/edit#bookmark=id.fg7sbt74ij2i)
+
+Alternatively, you can do this directly from this [link](https://flatiron.atlassian.net/projects/TS?selectedItem=com.atlassian.jira.jira-projects-plugin%3Areport-page).
+
+Either will bring you to Jira, where you need to press the `Create`  or `Create Issue` button in the navigation to create the issue.
 
 This will bring up a modal for you to create a ticket based on issue type.
 
@@ -59,7 +63,7 @@ Thing's we've tried:
 - Deleted forked repo and re forked, ran learn and learn submit
 - Deleted local copy and re-cloned, ran learn and learn submit
 
-Attached are some errors in the console while running learn and learn submit
+Attached are some errors in the console while running learn and learn submit. 
 ```
 
 **Note**: Do not rely on the dev team reading through the chat transcript. Please provide a summary as best you can so they don't have to dig through the chat.
