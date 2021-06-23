@@ -72,9 +72,9 @@ There are a few different priority levels and it's important to pick the right o
 
 | Priority | Definition |
 | -------- | ---------- |
-| Blocker | Issues that prevent paid users from learning, or sitewide issues that affect all users. For example: a paid user's IDE not working or they can't access their track or billing. Or, AAQ is broken, or `learn.co` is down. **Use with caution**. |
-| High | Issues that prevent unpaid users from learning, or a paid student has an issue that is causing a poor experience. For example: a paid user's lights on `learn.co` aren't updating, a paid user is having chat issues; a free user can't access a free track or get their IDE to work.
-| Medium | An issue that needs to be addressed and may be causing a poor experience but does not need to be fixed for a few business days. For example, a paid user has Slack invitation issues, or can't switch their blog type; a free user's track lights won't flip but they can proceed.
+| Blocker | Issues that prevent paid users from learning, or sitewide issues that affect all users. For example: a paid user's IDE not working or they can't access their track or billing. **Use with caution**. |
+| High | A paid student has an issue that is causing a poor experience. For example: a paid user's lights on `learn.co` or checkmarks on canvas aren't updating.
+| Medium | An issue that needs to be addressed and may be causing a poor experience but does not need to be fixed for a few business days. For example, a paid user has Slack invitation issues, or can't switch their blog type.
 | Low | An issue that would be nice to fix, but can be addressed down the road during a clean up week. For example, visual quirks, feature requests or improvements; free user has has a problem with Slack or their progress data is incorrect.
 
 **Raising a blocking issue will alert the entire Flatiron staff. Use ONLY for critical issues.**
@@ -83,7 +83,7 @@ There are a few different priority levels and it's important to pick the right o
 
 Note that the spreadsheet also gives expected turnaround times for each priority level, as well as suggested snippets to share with students once the ticket has been submitted. Students will understandably have questions about how long it will take for their issue to be addressed, so keep them in the loop!
 
-**Note: Before raising a blocking issue, you'll need to determine if the user is paying or not. Additionally, if the student can move forward (go to the next lesson for now), then it is *not* a blocking issue.**
+**Note: If the student can move forward (go to the next lesson for now), then it is *not* a blocking issue.**
 
 ## Resources
 
