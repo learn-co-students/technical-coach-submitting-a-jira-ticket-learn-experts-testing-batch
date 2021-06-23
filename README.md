@@ -28,7 +28,7 @@ Either will bring you to Jira, where you need to press the `Create`  or `Create 
 
 This will bring up a modal for you to create a ticket based on issue type.
 
-The "Project" for the issue should always be Flatiron Support Board (LABSBOARD)`.
+The "Project" for the issue should always be `Flatiron Support Board (LABSBOARD)`.
 
 Select the appropriate issue type and fill in all required fields and any optional fields you are reasonably able to.
 
